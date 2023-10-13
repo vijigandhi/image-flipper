@@ -1,0 +1,39 @@
+.img-files
+{
+    width: 60%;
+    height: 200px;
+}
+
+.container
+{
+    width: 100%;
+    margin-top: 12%;
+}
+
+.innerContainer
+{
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+    left: 10%;
+}
+
+.innerContainer2
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#btn1,
+#btn2
+{
+    width: 30%;
+    height: 50px;
+    border: 0px;
+    margin-top: 8%;
+    background-color: rgb(119, 118, 121);
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+}
